@@ -10,7 +10,7 @@ I’m **Hardik Ghiya**, a **B.Tech Computer Engineer** from
 **Thapar Institute of Engineering & Technology (TIET), Patiala**.
 
 I work as an **AI Engineer**, focused on building **LLM-powered, cloud-native AI systems** using **Python, AWS, and Docker**.  
-I enjoy designing systems that are **scalable, reliable, and production-ready**.
+I am curious and enjoy learning**.
 
 ---
 
