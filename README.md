@@ -21,7 +21,6 @@ I am curious and enjoy learning**.
   <img src="https://img.shields.io/badge/Generative%20AI-RAG%20%7C%20Agents-blueviolet"/>
   <img src="https://img.shields.io/badge/Python-AI%20Engineering-blue"/>
   <img src="https://img.shields.io/badge/AWS-Cloud%20AI-orange"/>
-  <img src="https://img.shields.io/badge/Docker-MLOps-blue"/>
 </p>
 
 - **Large Language Models** 
